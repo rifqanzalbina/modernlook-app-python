@@ -1,4 +1,4 @@
-# gui-app-python
+# Modern App look GUI
 A modern gui look
 
 # Important to remember
